@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Csharp_LAB\bin\Debug\net8.0\Csharp_LAB.exe
+C:\Users\acer\Desktop\Csharp_LAB\bin\Debug\net8.0\Csharp_LAB.deps.json
+C:\Users\acer\Desktop\Csharp_LAB\bin\Debug\net8.0\Csharp_LAB.runtimeconfig.json
+C:\Users\acer\Desktop\Csharp_LAB\bin\Debug\net8.0\Csharp_LAB.dll
+C:\Users\acer\Desktop\Csharp_LAB\bin\Debug\net8.0\Csharp_LAB.pdb
+C:\Users\acer\Desktop\Csharp_LAB\obj\Debug\net8.0\Csharp_LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Csharp_LAB\obj\Debug\net8.0\Csharp_LAB.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Csharp_LAB\obj\Debug\net8.0\Csharp_LAB.AssemblyInfo.cs
+C:\Users\acer\Desktop\Csharp_LAB\obj\Debug\net8.0\Csharp_LAB.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Csharp_LAB\obj\Debug\net8.0\Csharp_LAB.sourcelink.json
+C:\Users\acer\Desktop\Csharp_LAB\obj\Debug\net8.0\Csharp_LAB.dll
+C:\Users\acer\Desktop\Csharp_LAB\obj\Debug\net8.0\refint\Csharp_LAB.dll
+C:\Users\acer\Desktop\Csharp_LAB\obj\Debug\net8.0\Csharp_LAB.pdb
+C:\Users\acer\Desktop\Csharp_LAB\obj\Debug\net8.0\Csharp_LAB.genruntimeconfig.cache
+C:\Users\acer\Desktop\Csharp_LAB\obj\Debug\net8.0\ref\Csharp_LAB.dll
