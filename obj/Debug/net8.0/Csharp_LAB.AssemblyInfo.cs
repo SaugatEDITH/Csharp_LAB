@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Csharp_LAB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20b1f9dd58a965073613d7e6f84a7962d96c0d8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2c80177a418d47f8ff7dee35657781971fa3631")]
 [assembly: System.Reflection.AssemblyProductAttribute("Csharp_LAB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Csharp_LAB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
