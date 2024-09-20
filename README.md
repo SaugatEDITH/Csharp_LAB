@@ -23,7 +23,7 @@
 ```Python
 def run_the_code:
     '''
-    To Run the code Comment all the other .CS Extensions code           then uncomment the code you want to run then run the code
+    To Run the code Comment all the other .CS Extensions code then uncomment the code you want to run then run the code
     '''
     print run_the_code.__doc__
 
