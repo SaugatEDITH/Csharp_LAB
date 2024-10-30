@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\Desktop\\Csharp_LAB\\Csharp_LAB.csproj": {}
+    "D:\\Csharp_LAB\\Csharp_LAB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\Desktop\\Csharp_LAB\\Csharp_LAB.csproj": {
+    "D:\\Csharp_LAB\\Csharp_LAB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\Desktop\\Csharp_LAB\\Csharp_LAB.csproj",
+        "projectUniqueName": "D:\\Csharp_LAB\\Csharp_LAB.csproj",
         "projectName": "Csharp_LAB",
-        "projectPath": "C:\\Users\\acer\\Desktop\\Csharp_LAB\\Csharp_LAB.csproj",
+        "projectPath": "D:\\Csharp_LAB\\Csharp_LAB.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\Desktop\\Csharp_LAB\\obj\\",
+        "outputPath": "D:\\Csharp_LAB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
