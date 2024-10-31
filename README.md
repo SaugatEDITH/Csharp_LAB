@@ -18,6 +18,14 @@
 #### 14. WAP from generics to implement stack using Rush.
 #### 15. WAP from generics method to implement a Stack using POP
 #### 16. WAP to implement generics class using Dictionary
+#### 17. WAP that will read college name from the keyboard and display it in the terminal.The program should throw an expection if length is more than 50.
+#### 18. WAP that will read balance and withdraw amount from keyboard and display the remaining balance on screen.If balance is less then Withdraw amout throw an Application Exception with appropriate message.
+#### 19. WAP to implement singlecast delegate.
+#### 20. WAP to implement multicast delegate using System.
+#### 21. WAP to implement func delegate from generic delegate.
+#### 22. WAP to implement action delegate from generic delegate.
+#### 23. WAP to implement predicate delegate from generic delegate.
+#### 24. WAP to Select employees Whose salary>20000 & address is Kathmandu using LINQ.
 
 **Note**:
 ```Python
