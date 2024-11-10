@@ -26,6 +26,10 @@
 #### 22. WAP to implement action delegate from generic delegate.
 #### 23. WAP to implement predicate delegate from generic delegate.
 #### 24. WAP to Select employees Whose salary>20000 & address is Kathmandu using LINQ.
+#### 25. Write a web application program to impliment a form having name,address,gender and country.
+#### 26. Write a web application program to impliment a form Given below.
+![form](./image.png)
+
 
 **Note**:
 ```Python
