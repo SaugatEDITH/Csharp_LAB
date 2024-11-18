@@ -28,6 +28,9 @@
 #### 24. WAP to Select employees Whose salary>20000 & address is Kathmandu using LINQ.
 #### 25. Write a web application program to impliment a form having name,address,gender and country.
 #### 26. Write a web application program to impliment a form Given below.
+#### 27. Provided that mysql database name "company" with lable named "product" with following columns (productID as int,Product name as varchar 120) and unitewise as float.Write a c# program to connect to the DB & display record that have unitewise is grater then 1000 & update the product record from product DB whose product id=50.
+#### 28. Write a web application program to create student reg form in one asp.net page and display the field data in another asp.net page.
+#### 29. Write a web application program to impliment a form for calculating Simple intrest in one asp.net page and display in another asp.net page.
 ![form](./image.png)
 
 
