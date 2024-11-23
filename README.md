@@ -15,7 +15,7 @@
 #### 11. Using Directive.
 #### 12. WAP to implement List.
 #### 13. WAP to implement Queue.
-#### 14. WAP from generics to implement stack using Rush.
+#### 14. WAP from generics to implement stack using Push.
 #### 15. WAP from generics method to implement a Stack using POP
 #### 16. WAP to implement generics class using Dictionary
 #### 17. WAP that will read college name from the keyboard and display it in the terminal.The program should throw an expection if length is more than 50.
